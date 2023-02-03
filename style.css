@@ -1,0 +1,6 @@
+nav {
+    display: flex;
+    background-color: cornflowerblue;
+    list-style-type: none;
+    justify-content: space-around;
+}
