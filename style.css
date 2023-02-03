@@ -1,11 +1,12 @@
 <<<<<<< HEAD
 h1{
     background-color: blue;
-    text-align: center;}
+    text-align: center;:}
 =======
 nav {
     display: flex;
     background-color: chocolate;
     list-style-type: none;
     justify-content: space-around;
+>>>>>>> 0f07b295ccb54e152cb663836f615b083c9a7fcf
 }
